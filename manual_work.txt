@@ -1,0 +1,10 @@
+#sudo apt install flashplugin-installer
+#sudo apt install adobe-flashplugin
+#sudo apt install teams
+#wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+#sudo apt install ./google-chrome-stable_current_amd64.deb
+https://www.anaconda.com/products/individual#Downloads
+sudo ubuntu-drivers devices
+sudo apt install nvidia-driver-xxx
+sudo bash Anaconda3...sh
+pip install kaggle
