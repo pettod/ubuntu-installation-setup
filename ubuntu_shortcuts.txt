@@ -1,0 +1,9 @@
+Home folder					Super+E
+Launch web browser 				Super+W
+Settings					Super+S
+Copy a screenshot of a window to clipboard	Ctrl+Alt+P
+Copy a screenshot of an area to clipboard	Ctrl+Alt+O
+Copy a screenshot to clipboard		Ctrl+Alt+Å
+Show the notification list			Super+M
+Launch VSCode					Super+V
+
