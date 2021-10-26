@@ -1,0 +1,7 @@
+{
+    "window.zoomLevel": 0.8,
+    "editor.rulers": [79]
+}
+
+integrated terminal: right
+view: toggle terminal
