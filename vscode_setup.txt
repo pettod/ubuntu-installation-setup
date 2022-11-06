@@ -1,7 +1,0 @@
-{
-    "window.zoomLevel": 0.8,
-    "editor.rulers": [79]
-}
-
-Workbench panel: Default Location
-View: toggle terminal
