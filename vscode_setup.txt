@@ -3,5 +3,5 @@
     "editor.rulers": [79]
 }
 
-integrated terminal: right
-view: toggle terminal
+Workbench panel: Default Location
+View: toggle terminal

@@ -1,9 +1,8 @@
-Home folder					Super+E
-Launch web browser 				Super+W
-Settings					Super+S
-Copy a screenshot of a window to clipboard	Ctrl+Alt+P
-Copy a screenshot of an area to clipboard	Ctrl+Alt+O
-Copy a screenshot to clipboard		Ctrl+Alt+Å
+Home folder					        Super+E
+Launch web browser 				    Super+W
+Settings					        Super+S
+Take a screenshot interactively     Ctrl+Alt+O
+Take a screenshot of a window   	Ctrl+Alt+P
+Take a screenshot                   Ctrl+Alt+Å
 Show the notification list			Super+M
-Launch VSCode					Super+V
-
+Launch VSCode					    Super+V ("Custom shortcuts", "code")
